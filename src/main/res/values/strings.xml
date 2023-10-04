@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Always Coffee</string>
+    <string name="title_home">Home</string>
+    <string name="title_storage">Storage</string>
+    <string name="title_announcement">Announcement</string>
+    <string name="title_profile">Profile</string>
+</resources>
